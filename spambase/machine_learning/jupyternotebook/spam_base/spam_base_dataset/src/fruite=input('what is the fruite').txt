@@ -1,0 +1,5 @@
+fruite=input('what is the fruite')
+match fruite:
+    case ''
+    print('good fruit')
+     case
